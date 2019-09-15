@@ -1,0 +1,7 @@
+devops/resource/JobResource.class
+devops/entity/Job.class
+devops/JAXRSConfiguration.class
+devops/dao/Dao.class
+devops/business/JobBusiness.class
+devops/entity/Entity.class
+devops/dao/JobDao.class
